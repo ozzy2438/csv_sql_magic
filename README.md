@@ -40,4 +40,4 @@ python csv_to_sql.py veriler.csv musteri_tablosu
 
 - CSV dosyanızın ilk satırı sütun başlıklarını içermelidir
 - PostgreSQL veritabanınızın çalışır durumda olduğundan emin olun
-- Veritabanı kullanıcınızın tablo oluşturma ve veri ekleme yetkilerine sahip olduğundan emin olun
+- Veritabanı kullanıcınızın tablo oluşturma ve veri ekleme yetkilerine sahip olduğundan emin olun 
